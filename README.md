@@ -22,3 +22,6 @@ This script provides a user-friendly interface for managing users on a Matrix se
 ## Configuration
 
 Before running the script, you need to configure the following variables at the top of the script:
+
+- MATRIX_HOST
+- BEARER_TOKEN
